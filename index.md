@@ -1,4 +1,2 @@
 # Greetings Human!
-It is I, the testmaker.
-
-Foon
+Look at me! I test things!
